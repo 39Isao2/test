@@ -45,8 +45,8 @@ function setup(){
 
 function draw(){
 		// 白
-		//background(100,0,100);
-		background(0,0);
+		background(100,0,100);
+		//background(0,0);
 
 		// scene1
 		if(scene == 1){
